@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "gsap": "file:gsap-bonus.tgz",
+    "nuxt": "^2.14.6",
+    "vue-scrollmagic": "^1.2.0",
+    "vue-scrollto": "^2.20.0"
+  },
+  "devDependencies": {
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0"
+  }
+}
